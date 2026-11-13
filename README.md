@@ -25,4 +25,4 @@ HTML5, CSS3, JavaScript, jQuery, Swiper, Font Awesome, Hamburgers
 Open `index.html` in a browser. The preloader redirects to the main page (`site.html`)
 after a few seconds.
 
-[Live demo] https://kundelyevavika.github.io/HTMLFinalProjectFirstYear/site.html
+[Live demo] (https://kundelyevavika.github.io/HTMLFinalProjectFirstYear/site.html)
